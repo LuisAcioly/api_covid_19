@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.AppHome {
+  text-align: center;
+}
+
+.buttons {
+  margin-right: 24%;
+}
+
+.buttons button{
+  border-style: solid;
+  border-color: #000;
+  border-width: 1px;
+  cursor: pointer;
+}
+
+.chosen {
+  background-color: rgb(126, 197, 255);
+}
+
+.info {
+  text-align: left;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000;
+  width: 40vw;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.info p {
+  margin-left: 10px;
+}
+
+.title {
+  background-color: rgb(126, 197, 255);
+  width: 100%;
+  border-bottom: 1px solid;
+  padding-top: 0.5px;
+}
+
+.content {
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
+  margin: 0;
+}
+
+ul > li {
+  padding: 5px;
+  border-bottom: 1px solid #efefef;
+}
+
+.vaccineInfo {
+  text-align: left;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000;
+  width: 40vw;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.vaccineInfo p {
+  margin-left: 10px;
+}
+
+.vaccineTitle {
+  background-color: rgb(126, 197, 255);
+  width: 96.4%;
+  border-bottom: 1px solid;
+  padding-top: 0.5px;
+  height: 14vh;
+  display: flex;
+  align-items: center;
+}
+
+.vaccineTitle {
+  padding-left: 1.5vw;
+}
+
+.vaccineContent {
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 0;
+}
+
+.back {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  margin-top: 2.5vh;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+}
