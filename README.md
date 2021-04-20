@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto feito com o intuito de implementar uma api de covid (https://github.com/M-Media-Group/Covid-19-API) para o programa New Thinkers Squadra 2021
 
 ## Available Scripts
 
